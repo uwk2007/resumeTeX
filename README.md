@@ -2,7 +2,7 @@
 
 # resumeTeX
 
-_Clean and simple resume template for LaTeX_
+_Clean and simple LaTeX resume template for ATS system._
 
 </div>
 
