@@ -8,11 +8,15 @@ _Clean and simple LaTeX resume template for ATS system._
 
 ## About
 
-ResumeTeX is a LaTeX resume template that is clean and simple. It breaks different types of information into components, making it easy to customize.
+ResumeTeX is a LaTeX resume template designed for ATS (application tracking system). It is clean and simple, with a focus on readability and ATS compatibility.
+
+The template is designed to be easy to use and customize. It includes a number of components that can be easily added or removed.
+
+***DO NOT LIE ON YOUR RESUME. The invisible text for ATS is only for the purpose of mitigating the impact of ATS screening on your resume. All information, both visible and invisible, shall be TRUE.***
 
 ## Features
 
-- [x] ATS-friendly
+- ATS-friendly
   - [x] Invisible text for ATS systems
 - Components
   - [x] Name
@@ -22,7 +26,7 @@ ResumeTeX is a LaTeX resume template that is clean and simple. It breaks differe
     - [x] One-line tagline
     - [x] Dual-line tagline
   - [x] Bullet points
-- [x] UI
+- UI
   - [x] Resume friendly font families
     - [x] Serif
       - [x] Palatino style
@@ -32,6 +36,12 @@ ResumeTeX is a LaTeX resume template that is clean and simple. It breaks differe
   - [x] FontAwesome icons
   - [x] Colored text
     - [x] NTU Color Preset
+
+<div align="center">
+
+![ATS Friendly English Resume](./img/english_resume.png)
+
+</div>
 
 ## License
 
