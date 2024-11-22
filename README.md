@@ -36,6 +36,9 @@ The template is designed to be easy to use and customize. It includes a number o
   - [x] FontAwesome icons
   - [x] Colored text
     - [x] NTU Color Preset
+- Multi-language support
+  - [x] English
+  - [ ] Chinese (ctex and XeLaTeX required, not implemented yet)
 
 <div align="center">
 
