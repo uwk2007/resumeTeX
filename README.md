@@ -46,6 +46,32 @@ The template is designed to be easy to use and customize. It includes a number o
 
 </div>
 
+## Getting Started
+
+It is recommended to use [Overleaf](https://www.overleaf.com/), a cloud-based LaTeX editor. It is free for basic features and has a number of useful features, such as real-time collaboration and version control.
+
+### Prerequisites
+
+- pdfLaTeX
+
+### Download
+
+You may download the entire project directly from GitHub:
+
+```
+https://github.com/itdevwu/resumeTeX/archive/refs/heads/master.zip
+```
+
+or clone the repository:
+
+```shell
+git clone https://github.com/itdevwu/resumeTeX.git
+```
+
+Then you can open the project in your favorite LaTeX editor.
+
+For English resume, edit `english.tex` and compile it with pdfLaTeX.
+
 ## License
 
 Copyright 2024 itdevwu.
