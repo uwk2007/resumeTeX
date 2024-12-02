@@ -92,6 +92,10 @@ For English resume, edit `english.tex` and compile it with pdfLaTeX.
 
 For ATS invisible text, edit content following `% For ATS systems`.
 
+### Usage
+
+Please refer to the [usage of components](./docs/components.md).
+
 ## License
 
 Copyright 2024 itdevwu.
