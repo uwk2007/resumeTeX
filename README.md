@@ -12,7 +12,27 @@ ResumeTeX is a LaTeX resume template designed for ATS (application tracking syst
 
 The template is designed to be easy to use and customize. It includes a number of components that can be easily added or removed.
 
-***DO NOT LIE ON YOUR RESUME. The invisible text for ATS is only for the purpose of mitigating the impact of ATS screening on your resume. All information, both visible and invisible, shall be TRUE.***
+## Idea
+
+A common dilemma:  
+
+- **Applicant**: I want my resume to pass ATS screening and impress human interviewers.  
+- **Human Interviewer**: I want a well-crafted resume with no vague claims or exaggerations.  
+- **ATS**: I filter out unqualified candidates using specific but hidden keywords.
+
+However,
+
+However:  
+
+- To survive ATS screening, resumes need to include more keywords to increase the chances of matching.
+- To impress human interviewers, resumes must be clear, concise, and reduce unnecessary information.
+
+How to solve this dilemma?
+
+- **Invisible text**: Include invisible text in the resume to improve ATS screening results.
+- **Visible text**: Focus on the visible text to impress human interviewers.
+
+***Invisible text for ATS is meant to improve screening results. All information, visible or invisible, must be TRUE. Visible details should be those you want to discuss, while invisible ones should also be accurate but focus on optimizing keyword matches.***
 
 ## Features
 
@@ -71,6 +91,8 @@ git clone https://github.com/itdevwu/resumeTeX.git
 Then you can open the project in your favorite LaTeX editor.
 
 For English resume, edit `english.tex` and compile it with pdfLaTeX.
+
+For ATS invisible text, edit content following `% For ATS systems`.
 
 ## License
 
