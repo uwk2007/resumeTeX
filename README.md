@@ -30,7 +30,7 @@ How to solve this dilemma?
 - **Invisible text**: Include invisible text in the resume to improve ATS screening results.
 - **Visible text**: Focus on the visible text to impress human interviewers.
 
-***Invisible text for ATS is meant to improve screening results. All information, visible or invisible, must be TRUE. Visible details should be those you want to discuss, while invisible ones should also be accurate but focus on optimizing keyword matches.***
+_**Invisible text for ATS is meant to improve screening results. All information, visible or invisible, must be TRUE. Visible details should be those you want to discuss, while invisible ones should also be accurate but focus on optimizing keyword matches.**_
 
 ## Features
 
@@ -47,10 +47,10 @@ How to solve this dilemma?
 - UI
   - [x] Resume friendly font families
     - [x] Serif
-      - [x] Palatino style
+      - [x] TeX Gyre Pagella style (Palatino alike)
       - [x] Times style (Times New Roman alike)
     - [ ] Sans-serif (yet to be tested, you may try)
-  - [x] Industrual standard font sizes
+  - [x] Industrial standard font sizes
   - [x] FontAwesome icons
   - [x] Colored text
     - [x] NTU Color Preset
@@ -76,7 +76,7 @@ It is recommended to use [Overleaf](https://www.overleaf.com/), a cloud-based La
 
 You may download the entire project directly from GitHub:
 
-```
+```shell
 https://github.com/itdevwu/resumeTeX/archive/refs/heads/master.zip
 ```
 
