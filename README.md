@@ -60,7 +60,7 @@ _**Invisible text for ATS is meant to improve screening results. All information
 
 <div align="center">
 
-![ATS Friendly English Resume](./img/english_resume.png)
+![ATS Friendly English Resume](./docs/img/english_resume.png)
 
 </div>
 
