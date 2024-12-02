@@ -112,12 +112,14 @@
 
 \newcommand{\cvbullets}[2][1em]{
   \vspace{-1.9em} % Top margin
-  \begin{itemize}[left=0pt,labelsep=1em]
-    \setlength\itemsep{0.2em} % Space between items
-    \setlength\labelwidth{1em} % Space allocated for labels
-    \setlength\parskip{0pt} % No extra space between items
-    {\fontsize{\cvbulletfontsize}{\cvbulletfontsize}\selectfont #2}
-  \end{itemize}
+  {\fontsize{\cvbulletfontsize}{\cvbulletfontsize}\selectfont
+    \begin{itemize}[left=0pt,labelsep=1em]
+      \setlength\itemsep{0.2em} % Space between items
+      \setlength\labelwidth{1em} % Space allocated for labels
+      \setlength\parskip{0pt} % No extra space between items
+      #2
+    \end{itemize}
+  }
   \vspace{#1} % Bottom margin
 }
 
