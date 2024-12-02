@@ -22,8 +22,6 @@ A common dilemma:
 
 However,
 
-However:  
-
 - To survive ATS screening, resumes need to include more keywords to increase the chances of matching.
 - To impress human interviewers, resumes must be clear, concise, and reduce unnecessary information.
 
